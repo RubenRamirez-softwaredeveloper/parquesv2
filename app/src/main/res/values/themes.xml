@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Parques" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#03A9F4</item>
+         <item name="colorPrimaryDark">#0288D1</item>
+
+    </style>
+
+    <style name="Theme.Parques" parent="Base.Theme.Parques" />
+</resources>
